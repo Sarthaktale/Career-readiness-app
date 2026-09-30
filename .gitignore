@@ -1,0 +1,12 @@
+# Local data and credentials
+data/
+career_readiness/.env
+career_readiness/.venv/
+career_readiness/__pycache__/
+career_readiness/**/__pycache__/
+career_readiness/.pytest_cache/
+career_readiness/career_readiness.db
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
